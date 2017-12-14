@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_movie"
+        android:title="@string/edit_movie"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/delete_movie"
+        android:title="@string/delete_movie"
+        android:visible="true" />
+
+</menu>

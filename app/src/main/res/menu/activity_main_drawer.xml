@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Databases"
+        android:id="@+id/nav_databases_item">
+
+            <menu>
+
+                <item android:id="@+id/nav_databases_create"
+                    android:checkable="true"
+                    android:title="Create database" />
+
+            </menu>
+
+    </item>
+
+    <item android:title="Other">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_settings"
+                android:title="Settings"
+                android:checkable="true"/>
+
+            <item
+                android:id="@+id/nav_about"
+                android:checkable="true"
+                android:title="About" />
+
+        </menu>
+
+    </item>
+
+</menu>

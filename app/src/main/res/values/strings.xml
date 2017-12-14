@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">My Series Databases</string>
+
+    <!--Drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--Tabs-->
+    <string name="tab_watching">Watching</string>
+    <string name="tab_watched">Watched</string>
+    <string name="tab_stalled">Stalled</string>
+    <string name="tab_dropped">Dropped</string>
+    <string name="tab_want_to_watch">Want to watch</string>
+    <string name="tab_total">Total</string>
+
+    <!--OptionsMenu-->
+    <string name="manage_durations">Manage durations</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+    <!--Principal UI in tabs watching,watched and total-->
+    <string name="season">Season</string>
+    <!--<string name="number_episodes">eps:</string>-->
+    <string name="add_season">+Season</string>
+    <string name="add_episode">+EP</string>
+
+
+    <!--Tab Statistics-->
+    <string name="statistics_series">Number of series :</string>
+    <string name="statistics_seasons">Number of seasons :</string>
+    <string name="statistics_movies">Number of movies :</string>
+    <string name="statistics_total_episodes_seasons">Number of episodes for seasons :</string>
+    <string name="statistics_average_episodes">Averages episodes for seasons :</string>
+    <string name="statistics_total_duration">Life on series :</string>
+    <string name="statistics_average_duration">Average duration of episodes and movies :</string>
+    <string name="statistics_average_duration_episodes">Average duration of episodes</string>
+    <string name="statistics_average_duration_movies">Average duration of movies</string>
+
+
+    <!--Dialogs-->
+    <string name="cancel">Cancel</string>
+    <string name="OK">OK</string>
+
+    <!--Dialogs no database found-->
+    <string name="no_database_found">No database found</string>
+    <!--Dialogs-->
+    <string name="picture_dialog">Picture (optional)</string>
+    <!--Dialogs serie -->
+    <string name="add_serie">Add serie</string>
+    <string name="serie_title_dialog">Title</string>
+    <!--Dialogs season and movie-->
+    <string name="status">Status</string>
+    <string name="status_watching">Watching</string>
+    <string name="status_watched">Watched</string>
+    <string name="status_want_to_watch">Want to watch</string>
+    <string name="status_stalled">Stalled</string>
+    <string name="status_dropped">Dropped</string>
+    <!--Dialogs season-->
+    <string name="add_season_dialog">Add season</string>
+    <string name="season_title_dialog">Title (optional)</string>
+    <string name="season_number_dialog">Season Number</string>
+    <string name="airing_dialog">Is airing</string>
+    <string name="number_episodes_dialog">Number of episodes</string>
+    <string name="number_episodes_total_dialog">Number total of episodes</string>
+    <string name="episode_duration_dialog">Episode duration</string>
+    <!--Dialogs movie-->
+    <string name="add_movie_dialog">Add movie</string>
+    <string name="movie_title_dialog">Title</string>
+    <string name="movie_duration_dialog">Duration of movie</string>
+
+    <!--Dialogs duration-->
+    <string name="add_duration">Add</string>
+    <string name="edit_duration">Edit</string>
+    <string name="delete_duration">Delete</string>
+    <string name="set_default_duration">Set default</string>
+    <string name="duration_dialog">Duration</string>
+    <string name="default_duration_dialog">Default</string>
+
+    <!--PopupMenu-->
+    <!--PopupMenu Serie-->
+    <string name="edit_serie">Edit serie</string>
+    <string name="delete_serie">Delete serie</string>
+    <!--PopupMenu Season or Movie-->
+    <string name="finish_season">Finish season</string>
+    <string name="edit_season">Edit season</string>
+    <string name="delete_season">Delete season</string>
+
+    <string name="edit_movie">Edit movie</string>
+    <string name="delete_movie">Delete movie</string>
+    <!--PopupMenu Add Season or Movie-->
+    <string name="add_season_popup">Add season</string>
+    <string name="add_movie_popup">Add movie</string>
+
+
+    <!--Errors-->
+    <string name="dialog_status_error">Status is required !</string>
+    <string name="dialog_season_error">Some fields required are empty !</string>
+    <string name="dialog_movie_error">Title is required !</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>

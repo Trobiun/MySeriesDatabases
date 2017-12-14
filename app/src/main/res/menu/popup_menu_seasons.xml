@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_season"
+        android:title="@string/edit_season"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/delete_season"
+        android:title="@string/delete_season"
+        android:visible="true" />
+
+</menu>
